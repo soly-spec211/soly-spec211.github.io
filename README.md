@@ -1,22 +1,15 @@
-Portfolio Sections
-
-Create the following sections in this order:
-
-1. Cover / Hero Section
-
-Include:
+1. Cover
 
 My name: Aseel Waleed
 Title: Data Analyst & Data Visualization Specialist
 A short professional introduction
 Call-to-action buttons such as "View My Projects" and "Contact Me"
 A professional data/analytics visual element
-2. About Me
 
-Write a professional paragraph explaining that I am interested in transforming raw data into clear and meaningful insights.
+2. About Me
+ I am interested in transforming raw data into clear and meaningful insights.
 
 Mention that I work with:
-
 Power BI
 Excel
 Python
@@ -25,6 +18,7 @@ Data Cleaning
 Data Analysis
 Data Visualization
 Dashboard Development
+
 3. Education
 
 Include:
@@ -33,7 +27,6 @@ Bachelor's degree in Computer Science
 Focus/interests in Data Analysis, Data Visualization, Databases, and Programming
 Present the education section in a professional timeline or card design.
 
-Do not invent a university name, graduation year, GPA, or other information that I did not provide.
 
 4. Skills
 
@@ -51,6 +44,7 @@ Statistics
 Data Preparation
 Reporting
 Problem Solving
+
 5. Work Experience
 
 Since I am currently building my professional career as a Data Analyst, do not invent companies or fake employment history.
